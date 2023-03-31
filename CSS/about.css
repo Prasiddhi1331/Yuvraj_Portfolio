@@ -34,7 +34,7 @@
 .about_img img {
     width: 30vw;
     position: relative;
-    top: 11vw;
+    top: 8vw;
     left: 5vw;
 }
 .about_text{
@@ -46,7 +46,10 @@
     line-height: 1.5;
     color: whitesmoke;
     right: 60px;
-    font-size: 2rem;
+    
+}
+.about_text p {
+    font-size: 1.5rem;
 }
 
 @media only screen and (max-width: 798px)  {
