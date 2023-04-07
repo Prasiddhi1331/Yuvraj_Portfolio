@@ -48,7 +48,11 @@
         margin: 28px;
         border-radius: 15px 0;
         flex-direction: row;
+        cursor: pointer;
 
+}
+.skill_box div:hover {
+    background-color: rgb(242, 166, 73);
 }
 .skill_box div p{
     font-size: 1.2rem;
